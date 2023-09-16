@@ -1,4 +1,4 @@
-his project is part of a Design Challenge
+This project is part of a Design Challenge
 
 Figma Design: https://www.figma.com/file/kqVRkLVW6ZxugHjcexHoCp/kemper-amps?type=design&node-id=0%3A1&mode=design&t=WHD70sxmtWahnMmK-1
 
