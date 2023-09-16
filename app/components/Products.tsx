@@ -50,7 +50,7 @@ export default function Products({
                 } `}
             >
               <div
-                className=' rounded-md  group-hover:opacity-75 '
+                className=' rounded-md  group-hover:border-gray-300 '
                 onClick={() => handleClick(product.id)}
               >
                 <img
